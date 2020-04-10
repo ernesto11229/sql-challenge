@@ -16,6 +16,5 @@ created using Postcrestsql.
 #### Authors
 * Ernesto Beltran
 ##### Acknowledments
-*Ian MacLeod
-*Sheri Rosalia
-*Whitney Collins
+* Ian MacLeod
+* Sheri Rosalia
