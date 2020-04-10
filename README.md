@@ -1,6 +1,6 @@
 # Employee Database For Pewlett Hackard
 
-## This research project is on employees from 1980 to 1990 for 
+This research project is on employees from 1980 to 1990 for 
 Pwelett Hackard.The raw data for departments, employees, managers,
 salaries, and titles is available in 6 individual csv files. The 
 goal of the project is to answer the questions listed below 
